@@ -1,0 +1,11 @@
+# tensorflow_digit_finder
+-- image 0.png --> 0
+-- image 1.png --> 1
+-- image 2.png --> 2
+-- image 4.png --> 4
+-- image 6.png --> 6
+-- image 7.png --> 7
+-- image 8.png --> 5 (fail)
+-- image 9.png --> 3 (fail) 
+-- image-3.png --> 3
+-- image-5.png --> 2 (fail)
